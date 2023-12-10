@@ -11,7 +11,7 @@ from selenium.webdriver.common.actions import interaction
 from selenium.webdriver.common.actions.action_builder import ActionBuilder
 from selenium.webdriver.common.actions.pointer_input import PointerInput
 '''
-description:driver配置
+description:driver配置.
 '''
 class Driver_configure():
     def __init__(self):
